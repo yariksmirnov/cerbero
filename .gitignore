@@ -1,0 +1,21 @@
+# cocoapods
+Pods/*
+
+# fastlane
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+# build artifacts
+build/*
+*.app.zip
+*.app.dSYM.zip
+*.ipa
+
+# R.swift
+*.generated.swift
+
+# Swift Playground
+timeline.xctimeline
+*xcuserdata*
+.idea
